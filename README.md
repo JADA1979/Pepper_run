@@ -28,6 +28,7 @@ $ dialog --create-rc ~/.dialogrc
 
 **Run script:**
 ``` 
+>> CTRL+ALT+T
 $ execpepper.sh
 ```
 [ROS Kinetic](https://www.youtube.com/watch?v=LtHeyCBAE-8)

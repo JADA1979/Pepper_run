@@ -3,13 +3,17 @@ ROS Kinetec, Gazebo 7, Ubuntu 16.04
 
 **Install script:**
 ``` 
-CTRL+ALT+T
+>> CTRL+ALT+T
 $ sudo apt-get install dialog
 $ cd shfiles
 $ chmod a+x -v *.sh
 $ cd
 $ gedit .bashrc
-PASTE and SAVE: export PATH=$PATH:~/shfiles
+>> PASTE: export PATH=$PATH:~/shfiles
+>> SAVE
+>> CTRL+H
+>> CUT: .dialogrc
+>> PASTE: /home
 ```
 
 **Run script:**

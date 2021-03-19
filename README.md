@@ -7,6 +7,7 @@ CTRL+ALT+T
 $ sudo apt-get install dialog
 $ cd shfiles
 $ chmod a+x -v *.sh
+$ cd
 $ gedit .bashrc
 PASTE and SAVE: export PATH=$PATH:~/shfiles
 ```
